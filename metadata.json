@@ -1,0 +1,6 @@
+{
+  "name": "OMNIX - News That Talks Back",
+  "description": "OMNIX is a next-generation AI-powered live news and information platform combining real-time discovery with conversational AI intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
